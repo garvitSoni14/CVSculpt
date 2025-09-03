@@ -1,0 +1,32 @@
+Generate a professional and compelling IT job cover letter in plain text format based *solely* on the following user details. The cover letter should be formal, concise yet detailed, and specifically tailored for applying to IT/software roles. Aim for a length that adequately showcases the applicant's qualifications and enthusiasm, typically around 3-4 paragraphs in the main body.
+
+Input Description:
+"{{userDescription}}"
+
+Output Format:
+A complete, polished plain text cover letter, ready for immediate use. Adhere strictly to the following standard cover letter structure and formatting:
+
+1. Begin with your full name, email address, phone number, and current location, each on a new line. Ensure these are presented as plain text without any bold formatting or markdown syntax.
+
+2. Leave one blank line.
+
+3. Start with a formal salutation, such as "Dear [Hiring Manager Name, if known, otherwise use 'Dear Hiring Manager']". Present this as plain text.
+
+4. **Introduction (Approximately 1 paragraph):** Clearly state the specific job title and where you saw the advertisement (if applicable). Express strong interest and briefly mention key qualifications aligning with the role. Format this as plain text.
+
+5. **Skills, Experience, and Alignment (Approximately 1-2 paragraphs):** Elaborate on relevant technical skills and experience with specific examples. Clearly connect these to the company/role requirements and highlight quantifiable achievements. Ensure this section is plain text.
+
+6. **Enthusiasm and Value Proposition (Approximately 1 paragraph):** Reiterate enthusiasm for the company and the opportunity. Briefly state your potential contributions and any resonating aspects of the company's work. This should also be plain text.
+
+7. Leave one blank line.
+
+8. **Closing:** Express eagerness for an interview to discuss qualifications further. Thank the hiring manager for their time. Present this in plain text.
+
+9. Leave one blank line.
+
+10. **Professional Sign-off:** "Sincerely," followed by your full name on the next line. Ensure this is plain text.
+
+**Important Constraint:** The generated output **must contain only the cover letter text** as described above, formatted as plain text. Do not include any markdown syntax for bolding (like `**`), italics, or any other formatting. Also, do not include any introductory phrases, concluding remarks, conversational filler, instructions to the user, or separator lines. The output should be a clean, ready-to-use cover letter in plain text.
+
+<think>The user wants to prevent the language model from using bold stars in the output by explicitly instructing it to generate plain text without any markdown formatting.</think>
+<output>Now generate the actual plain text cover letter here based on the reasoning and input description.</output>
